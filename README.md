@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm **Atta Ur Rahman** — a Full-Stack Developer (MERN) building AI-powered web products for startups.<br>
 CS student at the University of Malakand, currently deepening my full-stack foundation with TypeScript and Next.js.<br>
 Open to remote freelance work & collaborations.
@@ -10,7 +10,7 @@ Open to remote freelance work & collaborations.
 -  Preparing to freelance as an AI-powered full-stack engineer on Upwork
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atta-ur-rahman-2b270b3b7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AttaUrRahman__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:attaurrahman513510@gmail.com)
 
 
@@ -33,7 +33,7 @@ Open to remote freelance work & collaborations.
 
 
 ## Featured Project:
-### 🏡 [WanderLust](https://github.com/Atta-Ur-Rahman-04/WanderLust)
+### [WanderLust](https://github.com/Atta-Ur-Rahman-04/WanderLust)
 An Airbnb-style full-stack booking platform built with **Node.js, Express, MongoDB, EJS**.<br>
 Features user authentication (Passport.js), image uploads (Cloudinary), location search with **Mapbox geocoding**, and country-based listing search.<br>
 🔗 [Live Demo](https://wanderlust-k5g7.onrender.com/listings) &nbsp;|&nbsp; 💻 [Source Code](https://github.com/Atta-Ur-Rahman-04/WanderLust)

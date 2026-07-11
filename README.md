@@ -28,6 +28,12 @@ Open to remote freelance work & collaborations.
 **Cloud & Tools**<br>
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+## 📌 Featured Project:
+### 🏡 [WanderLust](https://github.com/Atta-Ur-Rahman-04/WanderLust)
+An Airbnb-style full-stack booking platform built with **Node.js, Express, MongoDB, EJS**.<br>
+Features user authentication (Passport.js), image uploads (Cloudinary), location search with **Mapbox geocoding**, and country-based listing search.<br>
+🔗 [Live Demo](https://wanderlust-k5g7.onrender.com/listings) &nbsp;|&nbsp; 💻 [Source Code](https://github.com/Atta-Ur-Rahman-04/WanderLust)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Atta-Ur-Rahman-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Atta-Ur-Rahman-04&theme=dark&hide_border=false)<br/>

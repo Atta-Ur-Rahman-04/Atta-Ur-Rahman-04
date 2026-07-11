@@ -7,7 +7,6 @@ Open to remote freelance work & collaborations.
 ## 🔭 Currently Working On:
 - 🚀 Leveling up **TypeScript** and **Next.js** (App Router, Server Components)
 - 🤖 Building toward **AI-integrated web apps** — OpenAI API, LangChain.js, RAG, vector search
-- 🌍 Deploying and refining full-stack projects like **WanderLust** (Airbnb-style booking platform) and **PostFlow** (Twitter-inspired CRUD app)
 - 📚 Preparing to freelance as an AI-powered full-stack engineer on Upwork
 
 ## 🌐 Socials:

@@ -5,8 +5,8 @@ Open to remote freelance work & collaborations.
 
 
 ## Currently Working On:
--  Leveling up **TypeScript** and **Next.js** (App Router, Server Components)
--  Building toward **AI-integrated web apps** — OpenAI API, LangChain.js, RAG, vector search
+-  Leveling up **TypeScript** and **Next.js**
+-  Building toward **AI-integrated web apps**
 -  Preparing to freelance as an AI-powered full-stack engineer on Upwork
 
 

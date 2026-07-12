@@ -7,7 +7,7 @@ Open to remote freelance work & collaborations.
 ## Currently Working On:
 -  Leveling up **TypeScript** and **Next.js**
 -  Building toward **AI-integrated web apps**
--  Preparing to freelance as an AI-powered full-stack engineer on Upwork
+-  Open to freelance/remote work — comfortable owning a feature end-to-end, from DB schema to deployment
 
 
 ## Socials:

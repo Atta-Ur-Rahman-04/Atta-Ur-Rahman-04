@@ -1,6 +1,6 @@
 # About Me:
 Hi, I'm **Atta Ur Rahman** — a Full-Stack Developer (MERN) building AI-powered web products for startups.<br>
-CS student at the University of Malakand, currently deepening my full-stack foundation with TypeScript and Next.js.<br>
+CS student at the University of Malakand, currently deepening my expertise in TypeScript and Next.js as I move toward building AI-integrated applications.<br>
 I enjoy owning problems end-to-end — from database design to deployment.
 
 
@@ -26,7 +26,7 @@ I enjoy owning problems end-to-end — from database design to deployment.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 **Backend**<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white) ![Joi](https://img.shields.io/badge/Joi-F44336?style=for-the-badge&logo=json&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white) ![Joi](https://img.shields.io/badge/Joi-F44336?style=for-the-badge&logo=json&logoColor=white) ![REST%20APIs](https://img.shields.io/badge/REST%20APIs-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Databases**<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,7 +44,3 @@ Features user authentication (Passport.js), image uploads (Cloudinary), location
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Atta-Ur-Rahman-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Atta-Ur-Rahman-04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Atta-Ur-Rahman-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-

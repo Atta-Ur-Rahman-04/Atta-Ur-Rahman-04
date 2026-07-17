@@ -1,7 +1,7 @@
 # About Me:
 Hi, I'm **Atta Ur Rahman** — a Full-Stack Developer (MERN) building AI-powered web products for startups.<br>
 CS student at the University of Malakand, currently deepening my expertise in TypeScript and Next.js as I move toward building AI-integrated applications.<br>
-I enjoy owning problems end-to-end — from database design to deployment.
+I enjoy owning features end-to-end — from database design to deployment.
 
 
 ## Currently Working On:

@@ -5,7 +5,7 @@ I enjoy owning features end-to-end — from database design to deployment.
 
 
 ## Currently Working On:
--  Leveling up **TypeScript** and **Next.js**
+-  Leveling up **TypeScript**,**Next.js** and **System Design**
 -  Building toward **AI-integrated web apps**
 -  Open to freelance/remote work — comfortable owning a feature end-to-end, from DB schema to deployment
 

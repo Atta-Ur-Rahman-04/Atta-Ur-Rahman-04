@@ -6,6 +6,7 @@ I own features end-to-end — from database design to deployment — because rea
 ## Currently Working On:
 - Strengthening expertise in **TypeScript** and **Next.js** to build faster, more reliable products
 - Integrating **AI** into real-world web applications
+- Strengthening data structures and algorithms using Python
 - Advancing into **DevOps** — deployment, CI/CD, and infrastructure — to fully own the systems I build
 - Open to freelance and remote opportunities — experienced in delivering features from schema design to production deployment
 

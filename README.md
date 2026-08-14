@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Atta Ur Rahman — Full-Stack Developer (MERN) building web applications and AI-powered products, from schema design to deployment.<br> CS student currently developing my skills in TypeScript, Next.js, and System Design, and practicing Data Structures & Algorithms in Python to build a stronger problem-solving foundation.<br> I try to own features end-to-end because understanding the full pipeline — not just the code — leads to better engineering decisions.
+Hi, I'm Atta Ur Rahman — Full-Stack Developer (MERN) building web applications and AI-powered products, from schema design to deployment.<br> CS student currently developing my skills in TypeScript, Next.js, and System Design, and practicing Data Structures & Algorithms in C++ to build a stronger problem-solving foundation.<br> I try to own features end-to-end because understanding the full pipeline — not just the code — leads to better engineering decisions.
 
 
 ## Currently Working On:

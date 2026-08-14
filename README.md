@@ -43,6 +43,9 @@ Implements secure user authentication (Passport.js), cloud-based image handling 
 
 **[Live Demo](https://wanderlust-k5g7.onrender.com/listings)** &nbsp;|&nbsp; **[Source Code](https://github.com/Atta-Ur-Rahman-04/WanderLust)**
 
+---
+
+
 ### [NoteTaker](https://github.com/Atta-Ur-Rahman-04/note-taker)
 A full-stack, session-authenticated note-taking application built around a clean MVC architecture — designed so that auth, validation, and business logic each live in exactly one place.<br>
 Implements persistent MongoDB-backed sessions, owner-scoped data access enforced at the middleware layer, server-side validation with Joi, and centralized error handling. Built on Node.js, Express, MongoDB, and EJS, and deployed live on Render.

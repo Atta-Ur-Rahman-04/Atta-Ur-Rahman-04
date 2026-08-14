@@ -35,7 +35,11 @@ Hi, I'm Atta Ur Rahman — Full-Stack Developer (MERN) building web applications
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white) ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 
+---
+
 ## Featured Projects
+
+---
 
 ### [WanderLust](https://github.com/Atta-Ur-Rahman-04/WanderLust)
 A full-stack property booking platform inspired by Airbnb, built to demonstrate end-to-end ownership of a production-style web application — from schema design to deployment.<br>

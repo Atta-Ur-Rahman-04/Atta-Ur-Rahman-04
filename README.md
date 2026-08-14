@@ -37,7 +37,14 @@ Hi, I'm Atta Ur Rahman — Full-Stack Developer (MERN) building web applications
 
 ## Featured Project:
 ### [WanderLust](https://github.com/Atta-Ur-Rahman-04/WanderLust)
-An Airbnb-style full-stack booking platform built with **Node.js, Express, MongoDB, EJS**.<br>
-Features user authentication (Passport.js), image uploads (Cloudinary), location search with **Mapbox geocoding**, and country-based listing search.<br>
+A full-stack property booking platform inspired by Airbnb, built to demonstrate end-to-end ownership of a production-style web application — from schema design to deployment.<br>
+Implements secure user authentication (Passport.js), cloud-based image handling (Cloudinary), geolocation-driven search (Mapbox), and owner-scoped authorization with cascade-delete data integrity. Built on Node.js, Express, MongoDB, and EJS, and deployed live on Render.
 [Live Demo](https://wanderlust-k5g7.onrender.com/listings) &nbsp;|&nbsp; [Source Code](https://github.com/Atta-Ur-Rahman-04/WanderLust)
+
+
+### 🔗 Featured Project: NoteTaker
+A full-stack, session-authenticated note-taking application built around a clean MVC architecture — designed so that auth, validation, and business logic each live in exactly one place.<br>
+Implements persistent MongoDB-backed sessions, owner-scoped data access enforced at the middleware layer, server-side validation with Joi, and centralized error handling. Built on Node.js, Express, MongoDB, and EJS, and deployed live on Render.
+
+**[Live Demo](https://note-taker-unhv.onrender.com)** | **[Source Code](#)**
 

@@ -1,10 +1,10 @@
 # About Me:
-Hi, I'm Atta Ur Rahman — Full-Stack Developer (MERN) shipping production-ready web and AI-powered applications, from schema design to deployment.<br> CS student advancing my expertise in TypeScript, Next.js, and System Design, with strong Data Structures & Algorithms foundations in C++.<br> Open to freelance and remote engagements — bringing end-to-end ownership, from database architecture through production deployment.
+Hi, I'm Atta Ur Rahman — Full-Stack Developer (MERN) shipping production-ready web and RAG/LLM-integrated applications, from schema design to deployment.<br> CS student advancing my expertise in TypeScript, Next.js, and System Design, with strong Data Structures & Algorithms foundations in C++.<br> Open to freelance and remote engagements — bringing end-to-end ownership, from database architecture through production deployment.
 
 
 ## Currently Working On:
-- Strengthening expertise in **TypeScript** and **Next.js** to build faster, more reliable products
-- Integrating **AI** into real-world web applications
+- Strengthening expertise in TypeScript and Next.js to build faster, more reliable products
+- Building RAG & LLM-integrated applications for real-world use cases
 - Advancing into System Design — scalability, architecture patterns, and trade-offs — to design systems that hold up in production
 
 

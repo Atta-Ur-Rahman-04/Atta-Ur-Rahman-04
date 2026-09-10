@@ -3,7 +3,7 @@ Hi, I'm Atta Ur Rahman — Full-Stack Developer (MERN) shipping production-ready
 
 
 ## Currently Working On:
-- Strengthening expertise in TypeScript and Next.js to build faster, more reliable products
+- Strengthening expertise in Next.js to build faster, more reliable products
 - Building RAG & LLM-integrated applications for real-world use cases
 - Advancing into System Design — scalability, architecture patterns, and trade-offs — to design systems that hold up in production
 

@@ -4,8 +4,8 @@ Hi, I'm Atta Ur Rahman, Full-Stack Developer (MERN) shipping production-ready we
 
 
 ## Currently Working On:
-- Building RAG & LLM-integrated applications for real-world use cases
-- Transitioning into DevOps: containerization, CI/CD pipelines, and cloud deployment to ship and operate applications reliably
+- RAG & LLM-integrated applications: designing and building retrieval-augmented systems for real-world use cases, from data ingestion and embeddings to production deployment.
+- System Design: studying scalability, distributed architecture patterns, and engineering trade-offs, with the goal of building systems that stay reliable under production load.
 
 
 ## Socials:

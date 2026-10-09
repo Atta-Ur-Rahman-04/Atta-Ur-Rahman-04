@@ -1,11 +1,12 @@
 # About Me:
-Hi, I am Atta Ur Rahman, Full-Stack Developer (MERN) shipping production-ready web and RAG/LLM-integrated applications, from schema design to deployment.<br> CS student advancing my expertise in AI integration and System Design, with strong Data Structures & Algorithms foundations in C++.<br> Open to freelance and remote engagements, bringing end-to-end ownership, from database architecture through production deployment.
+Hi, I am Atta Ur Rahman, Full-Stack Developer (MERN) shipping production-ready web and RAG/LLM-integrated applications, from schema design to deployment.<br> CS student advancing my expertise in AI integration and System Design, with strong Data Structures & Algorithms foundations in C++.<br> My focus is forward deployed engineering: working close to real users and data to turn messy business problems into reliable, working systems.<br> Open to freelance projects and AI-full-stack engineering roles. Let’s connect through LinkedIn or email below.
 
 
 
 ## Currently Working On:
-- RAG & LLM-integrated applications: designing and building retrieval-augmented systems for real-world use cases, from data ingestion and embeddings to production deployment.
-- System Design: studying scalability, distributed architecture patterns, and engineering trade-offs, with the goal of building systems that stay reliable under production load.
+- RAG & LLM applications: building retrieval-augmented systems from data ingestion and embeddings to production deployment.
+- System Design: scalability, architecture patterns, and trade-offs.
+- Forward deployed engineering: developing customer-facing delivery skills (scoping, demos, shipping on real data).
 
 
 ## Socials:

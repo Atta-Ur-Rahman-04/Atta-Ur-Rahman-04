@@ -44,8 +44,8 @@ Hello, I am Atta Ur Rahman, Full-Stack Developer (MERN) shipping production-read
 ---
 
 ### [WanderLust](https://github.com/Atta-Ur-Rahman-04/WanderLust)
-A full-stack property booking platform inspired by Airbnb, built to demonstrate end-to-end ownership of a production-style web application — from schema design to deployment.<br>
-Implements secure user authentication (Passport.js), cloud-based image handling (Cloudinary), geolocation-driven search (Mapbox), and owner-scoped authorization with cascade-delete data integrity. Built on Node.js, Express, MongoDB, and EJS, and deployed live on Render.
+WanderLust is a full-stack Airbnb-style platform where hosts list properties and travelers find stays on a map. I designed, built, and deployed it end to end: schema, backend, UI, and live hosting.<br>
+It includes secure login (Passport.js), photo uploads (Cloudinary), Mapbox location search, and owner-only edit and delete, with linked data cleaned up automatically. Built with Node.js, Express, MongoDB and EJS, live on Render.
 
 **[Live Demo](https://wanderlust-k5g7.onrender.com/listings)** &nbsp;|&nbsp; **[Source Code](https://github.com/Atta-Ur-Rahman-04/WanderLust)**
 
@@ -53,8 +53,8 @@ Implements secure user authentication (Passport.js), cloud-based image handling 
 
 
 ### [NoteTaker](https://github.com/Atta-Ur-Rahman-04/note-taker)
-A full-stack, session-authenticated note-taking application built around a clean MVC architecture — designed so that auth, validation, and business logic each live in exactly one place.<br>
-Implements persistent MongoDB-backed sessions, owner-scoped data access enforced at the middleware layer, server-side validation with Joi, and centralized error handling. Built on Node.js, Express, MongoDB, and EJS, and deployed live on Render.
+NoteTaker is a full-stack note taking app where each user's notes stay private to them. I built it on a clean MVC structure, so auth, validation, and business logic each live in exactly one place.<br>
+It includes session based login that persists in MongoDB, owner only access to notes enforced in middleware, Joi validation on the server, and one central error handler. Built with Node.js, Express, MongoDB and EJS, live on Render.
 
 **[Live Demo](https://note-taker-unhv.onrender.com)** &nbsp;|&nbsp; **[Source Code](https://github.com/Atta-Ur-Rahman-04/note-taker)**
 

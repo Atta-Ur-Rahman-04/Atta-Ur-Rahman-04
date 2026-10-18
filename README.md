@@ -45,16 +45,20 @@ Hello, I am Atta Ur Rahman, Full-Stack Developer (MERN) shipping production-read
 
 ### [WanderLust](https://github.com/Atta-Ur-Rahman-04/WanderLust)
 WanderLust is a full-stack Airbnb-style platform where hosts list properties and travelers find stays on a map. I designed, built, and deployed it end to end: schema, backend, UI, and live hosting.<br>
-It includes secure login (Passport.js), photo uploads (Cloudinary), Mapbox location search, and owner-only edit and delete, with linked data cleaned up automatically. Built with Node.js, Express, MongoDB and EJS, live on Render.
+It includes secure login (Passport.js), photo uploads (Cloudinary), Mapbox location search, and owner-only edit and delete, with linked data cleaned up automatically. Built with Node.js, Express, MongoDB and EJS.
 
 **[Live Demo](https://wanderlust-k5g7.onrender.com/listings)** &nbsp;|&nbsp; **[Source Code](https://github.com/Atta-Ur-Rahman-04/WanderLust)**
 
+*First load may take up to a minute while the free server wakes up.*
 ---
 
 
 ### [NoteTaker](https://github.com/Atta-Ur-Rahman-04/note-taker)
 NoteTaker is a full-stack note taking app where each user's notes stay private to them. I built it on a clean MVC structure, so auth, validation, and business logic each live in exactly one place.<br>
-It includes session based login that persists in MongoDB, owner only access to notes enforced in middleware, Joi validation on the server, and one central error handler. Built with Node.js, Express, MongoDB and EJS, live on Render.
+It includes session based login that persists in MongoDB, owner only access to notes enforced in middleware, Joi validation on the server, and one central error handler. Built with Node.js, Express, MongoDB and EJS.
 
 **[Live Demo](https://note-taker-unhv.onrender.com)** &nbsp;|&nbsp; **[Source Code](https://github.com/Atta-Ur-Rahman-04/note-taker)**
+
+*First load may take up to a minute while the free server wakes up.*
+---
 

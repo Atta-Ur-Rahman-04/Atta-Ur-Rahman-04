@@ -51,6 +51,14 @@ It includes secure login (Passport.js), photo uploads (Cloudinary), Mapbox locat
 
 ---
 
+### [Forever (E-Commerce)](https://github.com/Atta-Ur-Rahman-04/E-Commerce-App)
+Forever is a full-stack e-commerce platform with a customer storefront and a separate admin panel. I designed, built, and deployed it end to end: three apps, a REST API, payments, and live hosting.<br>
+It includes JWT authentication, a cart saved per account in the database, Stripe Checkout, Cash on Delivery, and a Bank Transfer flow that shows the amount in PKR and lets the admin verify the payment with one click. Admins manage products with Cloudinary uploads and track every order. Built with React, Node.js, Express, MongoDB and Tailwind CSS.<br> Payments run in Stripe test mode, so no real money moves.
+
+**[Live Demo](https://forever-frontend-three-puce.vercel.app)** &nbsp;|&nbsp; **[Source Code](https://github.com/Atta-Ur-Rahman-04/E-Commerce-App)**
+
+---
+
 
 ### [NoteTaker](https://github.com/Atta-Ur-Rahman-04/note-taker)
 NoteTaker is a full-stack note taking app where each user's notes stay private to them. I built it on a clean MVC structure, so auth, validation, and business logic each live in exactly one place.<br>
